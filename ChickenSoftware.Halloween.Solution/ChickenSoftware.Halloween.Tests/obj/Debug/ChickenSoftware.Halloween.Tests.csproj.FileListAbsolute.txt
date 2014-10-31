@@ -1,0 +1,8 @@
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\bin\Debug\ChickenSoftware.Halloween.Tests.dll
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\bin\Debug\ChickenSoftware.Halloween.Tests.pdb
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\bin\Debug\ChickenSoftware.Halloween.dll
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\bin\Debug\ChickenSoftware.Halloween.pdb
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\bin\Debug\ChickenSoftware.Halloween.xml
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\obj\Debug\ChickenSoftware.Halloween.Tests.csprojResolveAssemblyReference.cache
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\obj\Debug\ChickenSoftware.Halloween.Tests.dll
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.Tests\obj\Debug\ChickenSoftware.Halloween.Tests.pdb

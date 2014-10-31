@@ -1,0 +1,16 @@
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.UI.exe.config
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.UI.exe
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.UI.pdb
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.dll
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.pdb
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\bin\Debug\ChickenSoftware.Halloween.xml
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.csprojResolveAssemblyReference.cache
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\MainWindow.baml
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\MainWindow.g.cs
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\App.g.cs
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI_MarkupCompile.cache
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.g.resources
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.Properties.Resources.resources
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.csproj.GenerateResource.Cache
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.exe
+C:\Git\HalloweenChicken\ChickenSoftware.Halloween.Solution\ChickenSoftware.Halloween.UI\obj\Debug\ChickenSoftware.Halloween.UI.pdb
